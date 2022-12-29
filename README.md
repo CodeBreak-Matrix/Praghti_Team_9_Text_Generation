@@ -8,13 +8,13 @@ Team members:
 
 Mentor: Pravaal B Nath (CSE 2nd year at SOE, CUSAT)
 
-Project name: Text generation based on mouse events.
-Project details:
-Generating text related to an image based on mouse events using OpenCV library in Python. The project is built in PyCharm Communtiy IDE. Additional libraries also used for studying this topic: NumPy.
-On left click event: generating the event coordinates on the screen
-On right click event: generating the bgr values of the event venue pixel
+Project name: Text generation based on mouse events.<br />
+Project details:<br />
+Generating text related to an image based on mouse events using OpenCV library in Python. The project is built in PyCharm Communtiy IDE. Additional libraries also used for studying this topic: NumPy.<br />
+On left click event: generating the event coordinates on the screen.<br />
+On right click event: generating the bgr values of the event venue pixel.<br />
 
-
-Commencement of project: 19th December 2022
-Duration of project: 10 days
-End of project: 29th December 2022
+<br />
+Commencement of project: 19th December 2022<br />
+Duration of project: 10 days<br />
+End of project: 29th December 2022<br />
